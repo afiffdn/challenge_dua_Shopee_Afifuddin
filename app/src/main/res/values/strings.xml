@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">challenge_dua_Shopee_Afifuddin</string>
+    <string name="cashback" translatable="false">\tEkstra Cashback 50%</string>
+    <string name="dompet" translatable="false">\tRp.10.000</string>
+    <string name="saldo" translatable="false">Isi Saldo di ShopeePay</string>
+    <string name="koin" translatable="false">100 Koin</string>
+    <string name="klaim" translatable="false">Klain koin di sini</string>
+    <string name="spaylater" translatable="false">SPayLater</string>
+    <string name="pulsa" translatable="false"><![CDATA[Pulsa,Tagihan &\nHiburan]]></string>
+    <string name="live" translatable="false">Shopee Live</string>
+    <string name="cart" translatable="false">cart</string>
+    <string name="shopeemall" translatable="false">ShopeeMall</string>
+    <string name="totebag" translatable="false">totebag</string>
+    <string name="supermarket" translatable="false">Shopee\nSupermarket</string>
+    <string name="lokal" translatable="false">Shopee\nPilih Lokal</string>
+    <string name="heart" translatable="false">heart</string>
+    <string name="fashoin" translatable="false">fashoin</string>
+    <string name="woman" translatable="false">InFashion</string>
+    <string name="cuci_gudang" translatable="false">cuci_gudang</string>
+    <string name="gudang" translatable="false">Shopee Cuci\nGudang</string>
+    <string name="koin_rupiah" translatable="false">koin_rupiah</string>
+    <string name="gratis_ongkir_dan_voucher" translatable="false">Gratis ongkir dan voucher</string>
+    <string name="joystick" translatable="false">joystick</string>
+    <string name="shopee_game" translatable="false">Shopee Game</string>
+    <string name="cod" translatable="false">cod</string>
+    <string name="map" translatable="false">map</string>
+    <string name="bulanbintang" translatable="false">bulanbintang</string>
+    <string name="shopeepay_ndisekitarmu" translatable="false">ShopeePay\nDisekitarmu</string>
+    <string name="shopee_nbarokah" translatable="false">Shopee\nBarokah</string>
+    <string name="shopeelive" translatable="false">ShopeeLive</string>
+    <string name="smartphone" translatable="false">smartphone</string>
+    <string name="utang" translatable="false">utang</string>
+    <string name="men" translatable="false">Men</string>
+    <string name="men_sale" translatable="false">Men Sale</string>
+    <string name="debit" translatable="false">debit</string>
+    <string name="promo_bank" translatable="false">Promo bank</string>
+    <string name="discount" translatable="false">discount</string>
+    <string name="semua_promo" translatable="false">Semua promo</string>
+    <string name="_3_15_spay_later">3.15 SPAY LATER</string>
+    <string name="promo_bawah">promo_bawah</string>
+    <string name="flas_sale">FLASH SALE</string>
+    <string name="satu">00</string>
+    <string name="dua">00</string>
+    <string name="tiga">00</string>
+    <string name="later">SPAYLATER</string>
+    <string name="harga_jam_tangan">Rp.500.000</string>
+    <string name="feed">feed</string>
+    <string name="notification">notification</string>
+    <string name="saya">saya</string>
+    <string name="liveeee">liveeee</string>
+    <string name="like">like</string>
+    <string name="terjual_semua">Terjual Semua</string>
+    <string name="hargapowerbank">Rp.100.000</string>
+    <string name="hargasepatu">Rp.300.000</string>
+    <string name="hargaheadphone">Rp.350.000</string>
+    <string name="haragakeyboard">Rp.1000.000</string>
+</resources>

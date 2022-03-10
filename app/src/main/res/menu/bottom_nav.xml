@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/like"
+        android:id="@+id/like"
+        android:icon="@drawable/ic_like" />
+    <item android:title="@string/feed"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_dynamic_feed_24" />
+    <item android:title="@string/liveeee"
+        android:id="@+id/promo"
+        android:icon="@drawable/liveee"/>
+    <item android:title="@string/notification"
+        android:id="@+id/pesanan"
+        android:icon="@drawable/ic_baseline_notifications_none_24"/>
+    <item android:title="@string/saya"
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>

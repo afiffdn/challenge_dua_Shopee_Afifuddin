@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/button_menu.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/button_search.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_baseline_promo.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_coin.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_debit_card.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_fashion.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_gudang.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_heart.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_joystick.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_like.xml" value="0.1" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_moon_star.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_rupiah.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_shooping_car.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_titikdua.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_vertical_line.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_wallet.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/ic_wallet_koin.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/drawable/terjual.xml" value="0.1775" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/studi independent/kegiatan/challenge_dua_Shopee_Afifuddin/app/src/main/res/menu/bottom_nav.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
